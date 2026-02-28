@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2128
+test_cases:
+- expected_values:
+    TOYOTA_ODO: 125089
+  response: 7E805612801E8A1
+- expected_values:
+    TOYOTA_ODO: 125090
+  response: 7E805612801E8A2
+- expected_values:
+    TOYOTA_ODO: 125091
+  response: 7E805612801E8A3
+- expected_values:
+    TOYOTA_ODO: 125092
+  response: 7E805612801E8A4
+- expected_values:
+    TOYOTA_ODO: 125093
+  response: 7E805612801E8A5
+- expected_values:
+    TOYOTA_ODO: 125094
+  response: 7E805612801E8A6
+- expected_values:
+    TOYOTA_ODO: 125095
+  response: 7E805612801E8A7
