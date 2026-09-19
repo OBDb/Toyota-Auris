@@ -4,11 +4,17 @@ test_cases:
     TOYOTA_CATALYST_T_B1S1: 108.1
   response: 7E80661050B1F05C9
 - expected_values:
-    TOYOTA_CATALYST_T_B1S1: 292.1
-  response: 7E806610513D80CF9
+    TOYOTA_CATALYST_T_B1S1: 187.7
+  response: 7E80661050EE708E5
 - expected_values:
-    TOYOTA_CATALYST_T_B1S1: 318.1
-  response: 7E8066105157D0DFD
+    TOYOTA_CATALYST_T_B1S1: 190.1
+  response: 7E80661050F0A08FD
+- expected_values:
+    TOYOTA_CATALYST_T_B1S1: 387.8
+  response: 7E8066105160110B6
+- expected_values:
+    TOYOTA_CATALYST_T_B1S1: 447.6
+  response: 7E80661051711130C
 - expected_values:
     TOYOTA_CATALYST_T_B1S1: 527.1
   response: 7E80661051A061627
