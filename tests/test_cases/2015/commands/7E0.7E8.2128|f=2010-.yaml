@@ -1,14 +1,14 @@
-command_id: 7E0.7E8.2128
+command_id: 7E0.7E8.2128|f=2010-
 test_cases:
 - expected_values:
-    TOYOTA_ODO: 125089
+    AURIS_ODO: 125089
   response: 7E805612801E8A1
 - expected_values:
-    TOYOTA_ODO: 132804
+    AURIS_ODO: 132804
   response: 7E80561280206C4
 - expected_values:
-    TOYOTA_ODO: 132807
+    AURIS_ODO: 132807
   response: 7E80561280206C7
 - expected_values:
-    TOYOTA_ODO: 132876
+    AURIS_ODO: 132876
   response: 7E805612802070C

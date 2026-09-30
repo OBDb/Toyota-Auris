@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2153
 test_cases:
 - expected_values:
-    TOYOTA_REGULATOR_P: 0.36708
+    AURIS_REGULATOR_P: 367.08
   response: 7CC03615338
 - expected_values:
-    TOYOTA_REGULATOR_P: 0.70541
+    AURIS_REGULATOR_P: 705.41
   response: 7CC0361534F

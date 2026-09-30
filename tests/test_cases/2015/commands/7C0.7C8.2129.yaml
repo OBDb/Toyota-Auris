@@ -1,10 +1,8 @@
 command_id: 7C0.7C8.2129
 test_cases:
 - expected_values:
-    TOYOTA_FLI_VOL: 0
-    TOYOTA_FUEL_INPUT: 0
+    AURIS_FLI_VOL: 0
   response: 7C803612900
 - expected_values:
-    TOYOTA_FLI_VOL: 10.83223
-    TOYOTA_FUEL_INPUT: 82
+    AURIS_FLI_VOL: 10.83223
   response: 7C803612952

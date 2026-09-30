@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2147
 test_cases:
 - expected_values:
-    TOYOTA_EGR_STEP_POSITION: 0
+    AURIS_EGR_STEP_POSITION: 0
   response: '7E803614700'
 - expected_values:
-    TOYOTA_EGR_STEP_POSITION: 29
+    AURIS_EGR_STEP_POSITION: 29
   response: 7E80361471D
 - expected_values:
-    TOYOTA_EGR_STEP_POSITION: 30
+    AURIS_EGR_STEP_POSITION: 30
   response: 7E80361471E
