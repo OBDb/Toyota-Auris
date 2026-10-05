@@ -1,0 +1,39 @@
+command_id: 750.758.2130|e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    AURIS_TP_FR: 2.34483
+  response: |-
+    7582A1007613000A500
+    7582A21000000000000
+- expected_values:
+    AURIS_TP_FL: 2.34483
+    AURIS_TP_FR: 2.31034
+    AURIS_TP_RL: 2.36207
+    AURIS_TP_RR: 2.37931
+  response: |-
+    7582A10076130A5A3A6
+    7582A21A70000000000
+- expected_values:
+    AURIS_TP_FL: 2.48276
+    AURIS_TP_FR: 2.46552
+    AURIS_TP_RL: 2.46552
+    AURIS_TP_RR: 2.5
+  response: |-
+    7582A10076130ADACAC
+    7582A21AE0000000000
+- expected_values:
+    AURIS_TP_FL: 2.48276
+    AURIS_TP_FR: 2.46552
+    AURIS_TP_RL: 2.46552
+    AURIS_TP_RR: 2.51724
+  response: |-
+    7582A10076130ADACAC
+    7582A21AF0000000000
+- expected_values:
+    AURIS_TP_FL: 2.48276
+    AURIS_TP_FR: 2.46552
+    AURIS_TP_RL: 2.48276
+    AURIS_TP_RR: 2.5
+  response: |-
+    7582A10076130ADACAD
+    7582A21AE0000000000
