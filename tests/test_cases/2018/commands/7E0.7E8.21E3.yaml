@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.21E3
+test_cases:
+- expected_values:
+    AURIS_CHECK_MODE_ON: 0
+    AURIS_F_TEST_RESULTS_1: 0
+    AURIS_MIS_TEST_RESULT: 0
+    AURIS_OXS1_FS2_TEST_RESULT: 0
+    AURIS_SPD_TEST_RESULT: 0
+  response: 7E80461E30000

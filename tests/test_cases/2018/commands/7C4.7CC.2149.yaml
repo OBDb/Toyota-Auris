@@ -1,0 +1,11 @@
+command_id: 7C4.7CC.2149
+test_cases:
+- expected_values:
+    AURIS_COMP_SPD: 0
+  response: 7CC0461490000
+- expected_values:
+    AURIS_COMP_SPD: 2303
+  response: 7CC04614908FF
+- expected_values:
+    AURIS_COMP_SPD: 4029
+  response: 7CC0461490FBD

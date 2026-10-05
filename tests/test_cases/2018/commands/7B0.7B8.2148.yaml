@@ -1,0 +1,22 @@
+command_id: 7B0.7B8.2148
+test_cases:
+- expected_values:
+    AURIS_FR_REGEN_OPERATION: 0
+    AURIS_FR_REGEN_REQUEST: 0
+  response: 7B806614800000000
+- expected_values:
+    AURIS_FR_REGEN_OPERATION: 0
+    AURIS_FR_REGEN_REQUEST: 1
+  response: 7B806614800010000
+- expected_values:
+    AURIS_FR_REGEN_OPERATION: 4
+    AURIS_FR_REGEN_REQUEST: 4
+  response: 7B806614800040004
+- expected_values:
+    AURIS_FR_REGEN_OPERATION: 6
+    AURIS_FR_REGEN_REQUEST: 5
+  response: 7B806614800050006
+- expected_values:
+    AURIS_FR_REGEN_OPERATION: 16
+    AURIS_FR_REGEN_REQUEST: 16
+  response: 7B806614800100010

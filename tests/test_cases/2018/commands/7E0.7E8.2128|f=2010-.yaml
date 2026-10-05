@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2128|f=2010-
+test_cases:
+- expected_values:
+    AURIS_ODO: 29423
+  response: 7E80561280072EF
+- expected_values:
+    AURIS_ODO: 29439
+  response: 7E80561280072FF

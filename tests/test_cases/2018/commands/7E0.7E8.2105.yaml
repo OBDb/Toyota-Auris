@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2105
+test_cases:
+- expected_values:
+    AURIS_CAT_T_B1S1: 126.8
+  response: 7E80661050AFF0684
+- expected_values:
+    AURIS_CAT_T_B1S1: 503.2
+  response: '7E806610517001538'
+- expected_values:
+    AURIS_CAT_T_B1S1: 471.7
+  response: 7E8066105170E13FD
+- expected_values:
+    AURIS_CAT_T_B1S1: 497.6
+  response: '7E806610518931500'
+- expected_values:
+    AURIS_CAT_T_B1S1: 635
+  response: 7E80661051C591A5E
+- expected_values:
+    AURIS_CAT_T_B1S1: 643.4
+  response: 7E80661051E131AB2
