@@ -260,7 +260,7 @@
   ]},
 { "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"22": "1021"}, "freq": 5,
   "signals": [
-    {"id": "AURIS_BATTERY_VOLTAGE_7C0", "path": "Electrical", "fmt": { "len": 8, "max": 20, "div": 10, "unit": "volts" }, "name": "B+ battery voltage", "suggestedMetric": "starterBatteryVoltage"}
+    {"id": "AURIS_BATTERY_VOLTAGE_7C0", "path": "Electrical", "fmt": { "len": 8, "max": 20, "div": 10, "nullmin": 0, "unit": "volts" }, "name": "B+ battery voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
 { "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"22": "1022"}, "freq": 1,
   "signals": [
